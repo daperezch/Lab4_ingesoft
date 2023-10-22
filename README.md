@@ -12,7 +12,7 @@ Team Members:
   
   Daniel Felipe Pérez Chaparro - daperezch
   
-  Nicolás Martínez López - 
+  Nicolás Martínez López - nmart1nezl
   
   Sergio Andrés Castro Vargas - SergioACV
   
