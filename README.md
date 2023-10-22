@@ -16,6 +16,6 @@ Team Members:
   
   Sergio Andrés Castro Vargas - SergioACV
   
-  Ronald Daniel Jacanamejoy - 
+  Ronald Daniel Jacanamejoy - RonaldDaniel20
   
   Juan Pablo Ovalle Gómez - JOvalleG
